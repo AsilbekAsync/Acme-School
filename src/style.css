@@ -1,0 +1,12 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar {
+  @apply w-2 bg-indigo-200;
+}
+
+body::-webkit-scrollbar-thumb {
+  @apply bg-indigo-500 cursor-pointer;
+}
