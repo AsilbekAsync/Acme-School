@@ -20,6 +20,6 @@ import Hero from "./components/Hero.vue";
 import About from "./components/About.vue";
 import Programs from "./components/Programs.vue";
 import Faculty from "./components/Faculty.vue";
-import Contact from "./components/contact.vue";
+import Contact from "./components/Contact.vue";
 import Footer from "./components/Footer.vue";
 </script>
